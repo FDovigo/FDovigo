@@ -1,7 +1,7 @@
-### Hi there 👋
+# 🎲 Tech Knight 
 
 <!--
-**FDovigo/FDovigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engineer of Various Things (Hardware Nerd / RPG Master / Software Developer)** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
