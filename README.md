@@ -1,4 +1,4 @@
-# 🎓 Tech Scholar
+## 🎓 Tech Scholar
 
 **Engineer of Various Things**   
 **`Hardware Nerd` `RPG Master` `Software Developer`**
